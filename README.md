@@ -18,9 +18,6 @@ Models Applied
  
 Key Results and Findings
  
-Visualizations
- 
-How to Run
 
 ## Task Objective
 The primary objective of this script is to perform an initial exploratory data analysis (EDA) on the Iris dataset. This includes:
